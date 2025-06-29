@@ -18,3 +18,8 @@
     <img src="pic/welle-fake-simple.png" width="150" alt="Simple Fake Welle"></a>
 <a href="models/welle-fake.scad">
     <img src="pic/welle-fake.png" width="150" alt="Fake Welle mit Streben"></a>
+
+### Create a shaft-holder
+
+<a href="models/shaft-holder.scad">
+    <img src="pic/shaft-holder.png" width="150" alt="Getriebe Halterung"></a>
